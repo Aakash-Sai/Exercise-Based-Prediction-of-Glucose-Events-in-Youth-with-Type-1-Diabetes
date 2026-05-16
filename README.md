@@ -9,11 +9,8 @@ This is a group capstone project that analyzes real-world clinical data from the
    
 #### Also a huge shoutout to my teammates o7
 <sub>
-[Sunny Chin(https://github.com/Sunnychin1027)<br>
-[Jeong-Wook Lee](https://github.com/Ljwook92)<br>
-[Xiling Guo](https://github.com/xilingguo)
-<a href="https://github.com/Sunnychin1027">Sunny Chin</a>
-<a href="https://github.com/Ljwook92">Jeong-Wook Lee</a>
+<a href="https://github.com/Sunnychin1027">Sunny Chin</a><br>
+<a href="https://github.com/Ljwook92">Jeong-Wook Lee</a><br>
 <a href="https://github.com/xilingguo">Xiling Guo</a>
 </sub>
 
