@@ -7,11 +7,11 @@ This is a group capstone project that analyzes real-world clinical data from the
  * Gaussian Process Boosted Trees (GPBoost)
  * Long Short-Term Memory Networks (LSTM)
    
-#### Also a huge shoutout to my amazing teammates o7
+#### Also a huge shoutout to my teammates o7
 <sub>
-* [Sunny Chin](https://github.com/Sunnychin1027)
-* [Jeong-Wook Lee](https://github.com/Ljwook92)
-* [Xiling Guo](https://github.com/xilingguo)
+[Sunny Chin](https://github.com/Sunnychin1027)<br>
+[Jeong-Wook Lee](https://github.com/Ljwook92)<br>
+[Xiling Guo](https://github.com/xilingguo)
 </sub>
 
 ## Our Data
