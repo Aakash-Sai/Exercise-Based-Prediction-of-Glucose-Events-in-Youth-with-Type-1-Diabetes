@@ -6,13 +6,6 @@ This is a group capstone project that analyzes real-world clinical data from the
  * Mixed Effects Random Forest (MERF)
  * Gaussian Process Boosted Trees (GPBoost)
  * Long Short-Term Memory Networks (LSTM)
-   
-#### Also a huge shoutout to my teammates o7
-<sub>
-<a href="https://github.com/Sunnychin1027">Sunny Chin</a><br>
-<a href="https://github.com/Ljwook92">Jeong-Wook Lee</a><br>
-<a href="https://github.com/xilingguo">Xiling Guo</a>
-</sub>
 
 ## Our Data
 * This project used the awesome T1DEXIP Pediatric Dataset from a real world clinical study. Data was collected under real-world free-living conditions using CGMs, Garmin wearables, and the Bant mobile application.
@@ -27,3 +20,9 @@ This is a group capstone project that analyzes real-world clinical data from the
 * Hypoglycemia prediction remained the most challenging due to severe class imbalance.
 * Findings demonstrated the importance of contextual physiological and activity-based features for glucose forecasting.
 
+#### Also a huge shoutout to my teammates o7
+<sub>
+<a href="https://github.com/Sunnychin1027">Sunny Chin</a><br>
+<a href="https://github.com/Ljwook92">Jeong-Wook Lee</a><br>
+<a href="https://github.com/xilingguo">Xiling Guo</a>
+</sub>
