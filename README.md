@@ -1,13 +1,11 @@
 # Exercise-Based-Prediction-of-Glucose-Events-in-Youth-with-Type-1-Diabetes
 
 ## Project Overview 
-This is a group capstone project that analyzes real-world clinical data from the T1DEXIP pediatric dataset to forecast glucose events following physical activity. The study explored how different pre-exercise time windows (2, 4, and 6 hours) impact predictive performance and compared multiple modeling approaches including:
+This is a group capstone project that analyzes real-world clinical data from the T1DEXIP pediatric dataset to forecast glucose events following physical activity, addressing an under-researched data science problem using data from a major hospital study of 250 youth with Type 1 Diabetes. The study explored how different pre-exercise time windows (2, 4, and 6 hours) impact predictive performance and compared multiple modeling approaches including:
 
  * Mixed Effects Random Forest (MERF)
  * Gaussian Process Boosted Trees (GPBoost)
  * Long Short-Term Memory Networks (LSTM)
-
-The project focused on improving prediction of clinically significant hypoglycemia events while maintaining model interpretability and reproducibility.
 
 ## Our Data
 * This project used the awesome T1DEXIP Pediatric Dataset from a real world clinical study. Data was collected under real-world free-living conditions using CGMs, Garmin wearables, and the Bant mobile application.
